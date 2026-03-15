@@ -2,9 +2,9 @@
 layout: post
 title: "AI Agent 技术选型：RAG、Workflow、Multi-Agent 怎么选"
 author: iosdevlog
-date: 2026-03-15 21:14:00 +0800
+date: 2026-03-15 21:23:00 +0800
 description: "AI开发日志公众号《Build Your X With AI》系列转载"
-cover-img: /assets/img/build-your-x-with-ai/series-cover-3.jpg
+cover-img: /assets/img/build-your-x-with-ai/ai-history-assets/cover.jpg
 category: AI
 tags: [AI, Agent, BuildYourXWithAI]
 ---
@@ -12,10 +12,9 @@ tags: [AI, Agent, BuildYourXWithAI]
 > 来源：公众号 **AI开发日志**（Build Your X With AI 系列）  
 > 说明：本文已同步到个人博客，便于归档与检索。
 
-> AI Agent 实战系列｜第 3 篇  
-> 公众号：AI开发日志
+> 系列第三篇｜公众号：AI开发日志
 
-![系列统一封面](/assets/img/build-your-x-with-ai/ai-history-assets/series-covers/series-cover-3.jpg)
+![技术选型封面](/assets/img/build-your-x-with-ai/ai-history-assets/image-2.jpg)
 
 很多团队做 Agent，第一步就选错方向：
 
@@ -134,19 +133,3 @@ tags: [AI, Agent, BuildYourXWithAI]
 - RAG/Workflow/Multi-Agent 选型表
 - 架构评审检查清单
 - 落地阶段路线图（可直接复用）
-
----
-
-## 系列导读
-
-- 上一篇：AI Agent 落地实战：从0到1，搭建能自己干活的智能工作流
-- 下一篇：中小团队 30 天 Agent 上线路线图（可直接执行）
-
-📌 关注 **AI开发日志**，私信 **“系列”** 获取《AI Agent 5 篇全集导航图》。
-
----
-
-## AI 生成声明
-
-本文由 AI 辅助生成，已由作者进行选题、结构与内容审核后发布。
-

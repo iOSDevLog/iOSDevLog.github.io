@@ -14,7 +14,7 @@ tags: [AI, Agent, BuildYourXWithAI]
 
 > 公众号：AI开发日志
 
-![系列封面](./ai-history-assets/series-covers/series-cover-1.jpg)
+![系列封面](/assets/img/build-your-x-with-ai/ai-history-assets/series-covers/series-cover-1.jpg)
 
 这是本系列的总导航，建议按顺序阅读：
 

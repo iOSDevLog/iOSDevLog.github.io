@@ -2,9 +2,9 @@
 layout: post
 title: "Agent 评估体系：如何量化 ROI（不再凭感觉汇报）"
 author: iosdevlog
-date: 2026-03-15 21:16:00 +0800
+date: 2026-03-15 21:25:00 +0800
 description: "AI开发日志公众号《Build Your X With AI》系列转载"
-cover-img: /assets/img/build-your-x-with-ai/series-cover-5.jpg
+cover-img: /assets/img/build-your-x-with-ai/ai-history-assets/cover.jpg
 category: AI
 tags: [AI, Agent, BuildYourXWithAI]
 ---
@@ -12,10 +12,9 @@ tags: [AI, Agent, BuildYourXWithAI]
 > 来源：公众号 **AI开发日志**（Build Your X With AI 系列）  
 > 说明：本文已同步到个人博客，便于归档与检索。
 
-> AI Agent 实战系列｜第 5 篇  
-> 公众号：AI开发日志
+> 系列第五篇｜公众号：AI开发日志
 
-![系列统一封面](/assets/img/build-your-x-with-ai/ai-history-assets/series-covers/series-cover-5.jpg)
+![ROI评估封面](/assets/img/build-your-x-with-ai/ai-history-assets/cover.jpg)
 
 很多团队上线 Agent 后都会遇到同一个问题：
 
@@ -129,19 +128,3 @@ ROI = (年度总收益 - 年度总成本) / 年度总成本
 - Agent 评估指标表（L1/L2/L3）
 - ROI 自动计算模板
 - 周报复盘模板（可直接套用）
-
----
-
-## 系列导读
-
-- 上一篇：中小团队 30 天 Agent 上线路线图（可直接执行）
-- 下一篇：（本系列完结篇）
-
-📌 关注 **AI开发日志**，私信 **“系列”** 获取《AI Agent 5 篇全集导航图》。
-
----
-
-## AI 生成声明
-
-本文由 AI 辅助生成，已由作者进行选题、结构与内容审核后发布。
-
