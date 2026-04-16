@@ -34,52 +34,12 @@ A Synthesia-like piano keyboard visualization software with MIDI playback, audio
 - Help overlay (F1) / 帮助覆盖层（F1）
 - Synchronized playback / 同步播放
 
-## Dependencies / 依赖项
+## 键盘映射
 
-```bash
-# Install dependencies (Ubuntu/Debian) / 安装依赖（Ubuntu/Debian）
-sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev librtmidi-dev poppler-utils
 ```
-
-## Building / 编译
-
-```bash
-mkdir build && cd build
-cmake ..
-make
+Black / 黑键:  S D   G H J       2 3   5 6 7
+White / 白键: Z X C V B N M     Q W E R T Y U I
 ```
-
-## Usage / 使用方法
-
-```bash
-# Play MIDI with falling notes visualization / 播放 MIDI 并显示下落音符
-./piano_visualizer song.mid
-
-# Play MIDI with PDF sheet music / 播放 MIDI 并显示 PDF 乐谱
-./piano_visualizer song.mid sheet.pdf
-
-# View PDF only and play manually with keyboard / 仅查看 PDF 并用键盘手动演奏
-./piano_visualizer sheet.pdf
-```
-
-## Controls / 控制键
-
-### MIDI Playback (when MIDI file is loaded) / MIDI 播放（加载 MIDI 文件时）
-- **Space / 空格键**: Play/Pause MIDI / 播放/暂停 MIDI
-- **Backspace / 退格键**: Stop MIDI / 停止 MIDI
-
-### Manual Piano Playing / 手动钢琴演奏
-You can play the piano manually using your computer keyboard:
-
-您可以使用电脑键盘手动演奏钢琴：
-
-**Lower octave (C3-C4) / 低八度（C3-C4）:**
-- White keys / 白键: `Z X C V B N M`
-- Black keys / 黑键: `S D G H J`
-
-**Middle octave (C4-C5) / 中八度（C4-C5）:**
-- White keys / 白键: `Q W E R T Y U I`
-- Black keys / 黑键: `2 3 5 6 7`
 
 ## Source Code / 源代码
 
