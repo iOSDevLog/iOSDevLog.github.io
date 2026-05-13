@@ -27,6 +27,10 @@ tags: [ToastKeys, Python, tkinter, pynput, 按键监控, 跨平台]
 
 ![Space](https://raw.githubusercontent.com/build-your-own-x-with-ai/ToastKeys/main/Screenshots/Space.png)
 
+F1 Help
+
+![F1](https://raw.githubusercontent.com/build-your-own-x-with-ai/ToastKeys/main/Screenshots/F1.png)
+
 ### 不同按键类型展示
 
 **字母键** - 绿色大字体
