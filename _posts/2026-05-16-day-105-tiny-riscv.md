@@ -18,6 +18,8 @@ tags: [RISC-V, Verilog, CPU, 处理器设计, 计算机体系结构, FPGA]
 
 ---
 
+> 📖 **完整版指南**：[TinyRISCV 完整指南（全 21 页）](/2026/05/19/tinyriscv-complete-guide/) — 包含架构概览、全部模块详解、37 张 Mermaid 图解等完整内容。
+
 ## 📸 效果展示
 
 ### 执行轨迹
